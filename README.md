@@ -1,5 +1,5 @@
 # Greetings, humans!
-My name is Wendel, and I love programming, music, and football (I'm a Fluminense fan).
+My name is Wendel, and i love programming, music, and football (I'm a Fluminense fan).
 
 I'm studying coding because:\
 1 - I want to be rich.\
