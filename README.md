@@ -1,10 +1,10 @@
 # Greetings, humans!
-My name is Wendel and i love programming, music and football (i'm Fluminense Fan).
+My name is Wendel, and I love programming, music, and football (I'm a Fluminense fan).
 
-I'm studing code because:\
-1 - I wanna be rich.\
-2 - I wanna help people, and a think that the technology can help and save lifes.\
-3 - I love technology\
+I'm studying coding because:\
+1 - I want to be rich.\
+2 - I want to help people, and I think that technology can help and save lives.\
+3 - I love technology.\
 \
 and...\
 \
