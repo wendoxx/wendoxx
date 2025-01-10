@@ -28,7 +28,7 @@ Uma API para gerenciar produtos e pedidos em um sistema de e-commerce.
 - Funcionalidades: CRUD de produtos e pedidos, cálculo automático do valor total de pedidos.  
 - Próximo passo: Implementar autenticação e autorização com Spring Security.  
 
-### [📌 Sistema Escolar](https://github.com/wendoxx/School-system)
+### [📌 API para Sistema Escolar](https://github.com/wendoxx/School-system)
 API RESTful para gerenciamento de escolas.  
 - Funcionalidades: Cadastro e gerenciamento de alunos, turmas e disciplinas.  
 - Tecnologias: Java, Spring Boot, PostgreSQL.
