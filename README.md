@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Wendel da Silva Martins
+# 👋 Olá, eu sou Wendel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wendel%20Martins-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wendel-silva-9ba630265)
 [![GitHub](https://img.shields.io/badge/GitHub-Wendoxx-lightgrey?style=flat-square&logo=github)](https://github.com/wendoxx)
