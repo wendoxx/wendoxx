@@ -48,6 +48,6 @@ API RESTful para gerenciamento de escolas.
 
 ## 📫 Contato
 📧 **E-mail:** wendeldasilvamartins1952@gmail.com  
-📱 **LinkedIn:** [Wendel Martins](https://www.linkedin.com/in/seu-perfil/)  
+📱 **LinkedIn:** [Wendel Martins](https://www.linkedin.com/in/wendel-silva-9ba630265/)  
 
 ---
