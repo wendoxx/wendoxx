@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2023, venho e
 
 ---
 
-## 🌟 Projetos em Destaque
+##  Projetos em Destaque
 ### [📌 API para E-commerce](https://github.com/wendoxx/e-commerce-api)
 Uma API para gerenciar produtos e pedidos em um sistema de e-commerce.  
 - Funcionalidades: CRUD de produtos e pedidos, cálculo automático do valor total de pedidos.  
@@ -35,18 +35,18 @@ API RESTful para gerenciamento de escolas.
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub
+## Minhas Estatísticas no GitHub
 ![Wendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendoxx&show_icons=true&theme=radical)
 
 ---
 
-## 🌱 Em aprendizado
+## Em aprendizado
 - Testes com **JUnit**, **Mockito**, e **Cucumber**.  
 - Construção de **APIs seguras** com OAuth2.  
 
 ---
 
-## 📫 Contato
+## Contato
 📧 **E-mail:** wendeldasilvamartins1952@gmail.com  
 📱 **LinkedIn:** [Wendel Martins](https://www.linkedin.com/in/wendel-silva-9ba630265/)  
 
