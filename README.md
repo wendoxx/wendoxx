@@ -21,6 +21,10 @@ Sou apaixonado por tecnologia e desenvolvimento de software! Desde 2023, venho e
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendoxx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ---
 
 ##  Projetos em Destaque
@@ -39,7 +43,7 @@ API RESTful para gerenciamento de escolas.
 ---
 
 ## Minhas Estatísticas no GitHub
-![Wendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendoxx&show_icons=true&theme=radical)
+![Wendel's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendoxx&show_icons=true&theme=tokyonight)
 
 ---
 
